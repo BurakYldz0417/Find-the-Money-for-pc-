@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 97
+  controlID: 54
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 66
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 430
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -310,7 +310,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 32fbffffc25a0000de5a0000f25a0000825b0000
+      m_ExpandedIDs: 32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -424,14 +424,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\unityproject\find the golds
+  m_LastProjectPath: C:\Users\ilyas\Documents\GitHub\Find-the-Money-for-pc-
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a45d0000
-    m_LastClickedID: 23972
-    m_ExpandedIDs: 00000000925d000000ca9a3b
+    m_SelectedIDs: f45d0000
+    m_LastClickedID: 24052
+    m_ExpandedIDs: 00000000b65d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -459,7 +459,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000925d0000
+    m_ExpandedIDs: 00000000b65d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -832,9 +832,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.828995, y: 2.4720001, z: -13.63}
+    m_Target: {x: 10.750986, y: -1.3473978, z: -4.3116097}
     speed: 2
-    m_Value: {x: 4.828995, y: 2.4720001, z: -13.63}
+    m_Value: {x: 10.750986, y: -1.3473978, z: -4.3116097}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -881,9 +881,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0013247038, y: -0.94863063, z: -0.0039754277, w: -0.31636202}
+    m_Target: {x: -0.07152474, y: -0.62296724, z: 0.057355084, w: -0.77685905}
     speed: 2
-    m_Value: {x: 0.0013247022, y: -0.9486295, z: -0.003975423, w: -0.31636164}
+    m_Value: {x: -0.07152461, y: -0.6229661, z: 0.05735498, w: -0.7768577}
   m_Size:
     m_Target: 10
     speed: 2
